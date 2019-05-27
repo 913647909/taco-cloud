@@ -1,6 +1,6 @@
 《Spring in Action》的项目代码
 
-# 第一章笔记
+# 第1章笔记
 - 依赖注入
 - 自动装配
 - 组件扫描
@@ -25,3 +25,10 @@
   - Spring Security
   - Spring Integration and Spring Batch
   - Spring Cloud
+  
+# 第2章笔记
+- Lombok(简化代码)
+  - @Data
+  - @Slf4j
+- 处理请求的注解:
+![](https://i.loli.net/2019/05/24/5ce7b5669948721915.png)
